@@ -1,0 +1,155 @@
+Full Name: Priyansh Agarwal
+Occupation: Founder and Educator at TLE Eliminators
+Heading: Founder - TLE Eliminators | ICPC World Finalist | AIR 1 - Google Kick Start | Former Intern @Goldman Sachs | IIIT Delhi'23
+Summary: I am a final year undergrad at IIIT Delhi pursuing a Bachelor of Technology in Computer Science and Engineering. I have worked as a Software Engineer Intern at Goldman Sachs for 8 weeks. As an intern, I primarily worked on optimising various programs leading to significant runtime reductions and database read-write costs. 
+
+I am highly interested in algorithmic problem solving and have a firm grasp in data structures and algorithms. In my three years of experience of both practicing and teaching competitive programming, I have climbed up to the top 0.2% competitive programmers in India with some remarkable achievements such as: 
+- Global Rank 6 and India Rank 1 in Google Kick Start 2022
+- India Rank of 20 in ICPC (aka Olympics of Coding) Regionals 2021. 
+
+I have also interned as a Problem Tester at Relevel wherein I verified the correctness of over 500 coding problems which were included in the all India hiring tests conducted on their platform. 
+
+I also received the Dean's Award in technical category for having shown the most exceptional performances in national and international programming competitions at IIIT Delhi in 2020-21. 
+
+I am an Android Development enthusiast and have made quite a few apps in Java using Android Studio and Firebase. I am currently learning more about Kotlin and Flutter.
+
+In an attempt to give back to the programming community I also run a Youtube channel with over 32k subscribers along with India's biggest Competitive Programming community on Discord.
+Profile Picture URL: https://media.licdn.com/dms/image/D4D03AQHOipsPpuWRzQ/profile-displayphoto-shrink_400_400/0/1681247038187?e=1689811200&v=beta&t=_9P8DDSNtjy6QyXm9Qa_2-JV3_93kZPXmPkFjhFDpmA
+
+Experience:
+Starts At: {'day': 1, 'month': 9, 'year': 2022}
+Ends At: {'day': 1, 'month': 9, 'year': 2022}
+Company: Indian Institute of Technology Gandhinagar 
+Title: Competitive Programming Educator
+Description: - Conducted a 7 days workshop on Dynamic Programming at IIT Gandhinagar.
+- Taught 6 online lectures covering various concepts in DP to 200+ students.
+- Conducted an offline problem-solving lecture.
+The lecture recordings can be found here: https://youtu.be/G-uriCpjSOA
+Location: Gandhinagar, Gujarat, India
+Logo URL: https://media.licdn.com/dms/image/C560BAQHtgpskaCA9tg/company-logo_400_400/0/1519905300544?e=1692835200&v=beta&t=Dyd3rAyBu1uCfiHZmvXO-OHRbSxaJHvPhmX7SO8AU_I
+
+Experience:
+Starts At: {'day': 1, 'month': 5, 'year': 2022}
+Ends At: {'day': 1, 'month': 7, 'year': 2022}
+Company: Goldman Sachs
+Title: Software Engineer Intern
+Description: Team: One Delta Engineering - Global Markets Division
+- Parallelised 60+ test scripts, reducing the runtime from over 8 hours to 5 minutes. 
+- Optimised a reference data system saving over 85% time to process live updates.
+Location: Bengaluru, Karnataka, India
+Logo URL: https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1595518030728?e=1692835200&v=beta&t=BZcx3G63UpljpcDHat76J2CORt2-uVhSHNlbw6RX79M
+
+Experience:
+Starts At: {'day': 1, 'month': 7, 'year': 2021}
+Ends At: {'day': 1, 'month': 4, 'year': 2022}
+Company: Relevel by Unacademy
+Title: DSA Problem Tester
+Description: Relevel is a platform that conducts online coding tests for various tech companies.
+- Tested and verified the correctness of over 500 programming problems.
+- Designed an exhaustive set of test cases for each problem.
+Location: Remote
+Logo URL: https://media.licdn.com/dms/image/C560BAQH5jL86yp2VUQ/company-logo_400_400/0/1662557186215?e=1692835200&v=beta&t=OQGz7RWuRS8CRUAyAYDwrhixj3GysbC9rF3KZaKeTG0
+
+Experience:
+Starts At: {'day': 1, 'month': 4, 'year': 2021}
+Ends At: None
+Company: TLE Eliminators
+Title: Founder and Educator
+Description: TLE Eliminators is a community-driven company that provides Competitive Programming training. 
+- Running India's biggest competitive programming community on Discord.
+- Leading a team of 45+ people.
+- Taught competitive programming to 2000+ students in the last 15 months.
+Location: New Delhi, Delhi, India
+Logo URL: https://media.licdn.com/dms/image/C4D0BAQEWnhVyOTRHnw/company-logo_400_400/0/1669025184398?e=1692835200&v=beta&t=93uABRq1PICYhCXmVg0TNrjNYLsW6BZYssAfFV2FT98
+
+Experience:
+Starts At: {'day': 1, 'month': 4, 'year': 2020}
+Ends At: {'day': 1, 'month': 8, 'year': 2020}
+Company: Coding Ninjas India
+Title: Teaching Assistant (Competitive Programming)
+Description: Coding Ninjas is an EdTech company providing coding classes for school and college students.
+- Conducted doubt resolution and code debugging sessions for a competitive programming course.
+- Assisted over 120 students in their projects and assignments.
+Location: India
+Logo URL: https://media.licdn.com/dms/image/C4D0BAQHgco5CcYbB8g/company-logo_400_400/0/1659000490526?e=1692835200&v=beta&t=WmPxs2eMD6AKJlRbl7DJp_cfVqTIC3DJrTBdflJK2a8
+
+Education:
+Starts At: {'day': 1, 'month': 8, 'year': 2019}
+Ends At: {'day': 1, 'month': 5, 'year': 2023}
+Field of Study: Computer Science Engineering
+Degree Name: Bachelor of Technology - BTech
+School: Indraprastha Institute of Information Technology, Delhi
+Description: None
+Logo URL: https://media.licdn.com/dms/image/C560BAQG8G8yRaFuoBQ/company-logo_400_400/0/1519863887737?e=1692835200&v=beta&t=A4CFaqRnrytv3wyomt1GC1fwVi1Y8L8iirRsU66xOAE
+
+Education:
+Starts At: {'day': 1, 'month': 4, 'year': 2017}
+Ends At: {'day': 1, 'month': 4, 'year': 2019}
+Field of Study: CBSE
+Degree Name: None
+School: Delhi Public School - R. K. Puram
+Description: None
+Logo URL: https://media.licdn.com/dms/image/C4D0BAQHO4knhudua1w/company-logo_400_400/0/1633154839879?e=1692835200&v=beta&t=jCwOW1XS0jowt1ngJsv34eG5HZg9o7Q3rOhVs_uKHAM
+
+Education:
+Starts At: {'day': 1, 'month': 1, 'year': 2009}
+Ends At: {'day': 1, 'month': 1, 'year': 2017}
+Field of Study: ICSE
+Degree Name: None
+School: St. Joseph's College, Nainital
+Description: None
+Logo URL: None
+
+Certification:
+Starts At: {'day': 1, 'month': 12, 'year': 2021}
+Ends At: None
+Name: CodeChef SnackDown 2021 Elimination Round
+License Number: Username: priyansh19077
+Authority: CodeChef
+URL: https://www.codechef.com/certificates/public/5fff482
+
+Certification:
+Starts At: {'day': 1, 'month': 8, 'year': 2021}
+Ends At: None
+Name: International Collegiate Programming Contest
+License Number: Username: priyansh19077
+Authority: ICPC - International Collegiate Programming Contest
+URL: https://icpc.global/ICPCID/J9BT0MDMHA5Z
+
+Certification:
+Starts At: {'day': 1, 'month': 8, 'year': 2020}
+Ends At: None
+Name: CodeChef Data Structures & Algorithms Advanced Level Exam
+License Number: Username: priyansh19077 
+Authority: CodeChef
+URL: https://www.codechef.com/certificates/public/78e2570
+
+Certification:
+Starts At: {'day': 1, 'month': 4, 'year': 2020}
+Ends At: None
+Name: Competitive Programming
+License Number: Email: priyansh19077@iiitd.ac.in
+Authority: Coding Ninjas
+URL: https://ninjasfiles.s3.amazonaws.com/certificate658031d67c08b482073492b03cc4b83e8b5343.pdf
+
+Skills:
+Team Leadership
+Git
+Object-Oriented Programming (OOP)
+Analytical Skills
+Teamwork
+Android SDK
+Linux
+Software Development
+Communication
+C (Programming Language)
+Python (Programming Language)
+Core Java
+Teaching
+Management
+Operations Management
+Slang
+Parallel Programming
+Version Control
+Competitive Programming
+Data Structures
